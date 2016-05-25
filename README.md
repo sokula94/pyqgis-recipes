@@ -1,1 +1,1 @@
-# pyqgis-recipes
+# Awesome list of awesome PyQGIS recipes
